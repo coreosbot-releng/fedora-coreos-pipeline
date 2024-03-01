@@ -24,7 +24,7 @@
 basic-branch-build-strategies:81.v05e333931c7d
 generic-webhook-trigger:2.0.0
 github-oauth:597.ve0c3480fcb_d0
-kubernetes-credentials-provider:1.258.v95949f923a_a_e
+kubernetes-credentials-provider:1.262.v2670ef7ea_0c5
 pipeline-github:2.8-159.09e4403bc62f
 slack:684.v833089650554
 timestamper:1.26
